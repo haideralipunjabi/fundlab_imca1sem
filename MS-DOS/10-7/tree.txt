@@ -1,0 +1,86 @@
+Folder PATH listing for volume OS
+Volume serial number is EC69-3C72
+C:\USERS\BCA\DESKTOP\HAIDER
+ÃÄÄÄ10-7
+³       file.txt
+³       tree.txt
+³       
+ÃÄÄÄ2-7
+³   ÀÄÄÄDepartments
+³       ÃÄÄÄExamination
+³       ³       Answer Booklets.txt
+³       ³       Exam Forms.txt
+³       ³       Question Marks.txt
+³       ³       Results.txt
+³       ³       
+³       ÃÄÄÄHealth
+³       ³       Beds.txt
+³       ³       Medicine.txt
+³       ³       Wheel Chair.txt
+³       ³       
+³       ÃÄÄÄIT
+³       ³       Computers.txt
+³       ³       Stationary.txt
+³       ³       Xerox Machines.txt
+³       ³       
+³       ÃÄÄÄLab
+³       ³       Computer.txt
+³       ³       Science.txt
+³       ³       
+³       ÀÄÄÄMerc
+³               Auditorium.txt
+³               Specialised Cameras.txt
+³               
+ÃÄÄÄ9-7
+³   ÃÄÄÄfiles
+³   ³       combine.txt
+³   ³       file1.txt
+³   ³       file2.txt
+³   ³       file3.txt
+³   ³       
+³   ÀÄÄÄstructure
+³       ÀÄÄÄDepartments
+³           ÃÄÄÄExamination
+³           ³       AnswerBooks.txt
+³           ³       ExamFOrms.txt
+³           ³       ROllNo.txt
+³           ³       
+³           ÃÄÄÄHealth
+³           ³       Beds.txt
+³           ³       Medicine.txt
+³           ³       WheelChair.txt
+³           ³       
+³           ÃÄÄÄIT
+³           ³       Computers.txt
+³           ³       Stationary.txt
+³           ³       XeroxMachines.txt
+³           ³       
+³           ÃÄÄÄLab
+³           ³       Computer.txt
+³           ³       Science.txt
+³           ³       
+³           ÀÄÄÄMerc
+³                   Auditorium.txt
+³                   Cameras.txt
+³                   
+ÃÄÄÄCourses
+³   ÃÄÄÄArts
+³   ÃÄÄÄIT
+³   ³   ÃÄÄÄBCA
+³   ³   ÀÄÄÄMCA
+³   ÀÄÄÄManagement
+³       ÃÄÄÄBBA
+³       ÀÄÄÄMBA
+ÃÄÄÄscreenshots
+³       10-7_001.png
+³       10-7_002.png
+³       10-7_003.png
+³       10-7_004.png
+³       10-7_005.png
+³       9-7_001.png
+³       9-7_002.png
+³       9-7_003.png
+³       9-7_004.png
+³       9-7_005.png
+³       
+ÀÄÄÄÿ
