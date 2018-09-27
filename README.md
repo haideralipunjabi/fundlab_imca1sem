@@ -1,5 +1,5 @@
 # fundlab_imca1sem
-Files & Outputs from various exercises I performed during my Foundation Course on Computers/Computer Fundamentals Lab, 1st Semester of Integrated Masters in Computer Applications at [Cluster University Srinagar](http://www.cusrinagar.edu.in/)
+Files & Outputs from various exercises I performed during my Foundation Course on Computers/Computer Fundamentals Lab, 1st Semester of Integrated Masters in Computer Applications at [Cluster University Srinagar](http://www.cusrinagar.edu.in/), Jammu & Kashmir
 
 
 
